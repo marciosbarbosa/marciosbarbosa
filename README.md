@@ -1,0 +1,1 @@
+Hi, I´m Marcio Barbosa. Programming has been a hobby for a long time and I try to learn a bit more day-by-day. When I started a few decades ago, Basic still required numbered lines. I progressed through Clipper, Delphi, Visual Basic. I currently develop small applications for web using PHP and PostgreSQL.
